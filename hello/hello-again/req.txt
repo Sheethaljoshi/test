@@ -1,0 +1,6 @@
+# This is a sample requirements file
+# You can list your project dependencies here
+
+requests==2.25.1
+numpy==1.19.5
+pandas==1.1.5
